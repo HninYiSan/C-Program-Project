@@ -28,6 +28,7 @@ int main()
 
 void Date::inputDate()
 	{
+        cout<<"Input the Date\n";
 		cout<<"Enter day: ";
 		cin>>day;
 		cout<<"Enter month: ";
